@@ -1,0 +1,273 @@
+{
+    "adminUsers": [
+      {
+        "id": "7f1f",
+        "firstName": "rdtyrt",
+        "lastName": "ertyurt",
+        "phoneNumber": "rtyu",
+        "email": "rtyu@rdtuyrtu",
+        "gender": "male",
+        "password": "eryuertu"
+      },
+      {
+        "id": "b703",
+        "firstName": "Mahmoud",
+        "lastName": "Hany",
+        "phoneNumber": "01069494236",
+        "email": "01069494236@w",
+        "gender": "male",
+        "password": "غقفعفعف"
+      },
+      {
+        "id": "2c91",
+        "firstName": "Mahmoud",
+        "lastName": "Hany",
+        "phoneNumber": "01069494236",
+        "email": "mahmoud222101471@nmu.edu.eg",
+        "gender": "male",
+        "password": "ytjmntf"
+      },
+      {
+        "id": "56d5",
+        "firstName": "Mahmoud",
+        "lastName": "Hany",
+        "phoneNumber": "01069494236",
+        "email": "Mahmoud1882004hany@gmail.com",
+        "gender": "male",
+        "password": "......"
+      }
+    ],
+    "IncomeUsers": [
+      {
+        "id": "e4cd",
+        "password": "dgf"
+      },
+      {
+        "id": "72c2",
+        "password": "نتىاتن"
+      },
+      {
+        "id": "48a6",
+        "password": "drtyr"
+      },
+      {
+        "id": "c333",
+        "password": "ytrdjuhn"
+      },
+      {
+        "id": "3a32",
+        "password": ",,,,,,"
+      },
+      {
+        "id": "b0bd",
+        "password": ""
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "image": "img1.jpg",
+        "description": "Description of Product 1"
+      },
+      {
+        "id": 2,
+        "image": "img2.jpg",
+        "description": "Description of Product 2"
+      },
+      {
+        "id": 3,
+        "image": "img3.jpg",
+        "description": "Description of Product 3"
+      },
+      {
+        "id": 4,
+        "image": "img4.jpg",
+        "description": "Description of Product 4"
+      },
+      {
+        "id": 5,
+        "image": "img5.jpg",
+        "description": "Description of Product 5"
+      },
+      {
+        "id": 6,
+        "image": "img6.jpg",
+        "description": "Description of Product 6"
+      },
+      {
+        "id": 7,
+        "image": "img7.jpg",
+        "description": "Description of Product 7"
+      },
+      {
+        "id": 8,
+        "image": "img8.jpg",
+        "description": "Description of Product 8"
+      },
+      {
+        "id": 9,
+        "image": "img9.jpg",
+        "description": "Description of Product 9"
+      },
+      {
+        "id": 10,
+        "image": "img10.jpg",
+        "description": "Description of Product 10"
+      },
+      {
+        "id": 11,
+        "image": "img11.jpg",
+        "description": "Description of Product 11"
+      },
+      {
+        "id": 12,
+        "image": "img12.jpg",
+        "description": "Description of Product 12"
+      },
+      {
+        "id": 13,
+        "image": "img13.jpg",
+        "description": "Description of Product 13"
+      },
+      {
+        "id": 14,
+        "image": "img14.jpg",
+        "description": "Description of Product 14"
+      },
+      {
+        "id": 15,
+        "image": "img15.jpg",
+        "description": "Description of Product 15"
+      },
+      {
+        "id": 16,
+        "image": "img16.jpg",
+        "description": "Description of Product 16"
+      },
+      {
+        "id": 17,
+        "image": "img17.jpg",
+        "description": "Description of Product 17"
+      },
+      {
+        "id": 18,
+        "image": "img18.jpg",
+        "description": "Description of Product 18"
+      },
+      {
+        "id": 19,
+        "image": "img19.jpg",
+        "description": "Description of Product 19"
+      },
+      {
+        "id": 20,
+        "image": "img20.jpg",
+        "description": "Description of Product 20"
+      },
+      {
+        "id": 21,
+        "image": "img21.jpg",
+        "description": "Description of Product 21"
+      },
+      {
+        "id": 22,
+        "image": "img22.jpg",
+        "description": "Description of Product 22"
+      },
+      {
+        "id": 23,
+        "image": "img23.jpg",
+        "description": "Description of Product 23"
+      },
+      {
+        "id": 24,
+        "image": "img24.jpg",
+        "description": "Description of Product 24"
+      },
+      {
+        "id": 25,
+        "image": "img25.jpg",
+        "description": "Description of Product 25"
+      },
+      {
+        "id": 26,
+        "image": "img26.jpg",
+        "description": "Description of Product 26"
+      },
+      {
+        "id": 27,
+        "image": "img27.jpg",
+        "description": "Description of Product 27"
+      },
+      {
+        "id": 28,
+        "image": "img28.jpg",
+        "description": "Description of Product 28"
+      },
+      {
+        "id": 29,
+        "image": "img9.jpg",
+        "description": "Description of Product 29"
+      },
+      {
+        "id": 30,
+        "image": "img30.jpg",
+        "description": "Description of Product 30"
+      },
+      {
+        "id": 31,
+        "image": "img31.jpg",
+        "description": "Description of Product 31"
+      },
+      {
+        "id": 32,
+        "image": "img32.jpg",
+        "description": "Description of Product 32"
+      },
+      {
+        "id": 33,
+        "image": "img33.jpg",
+        "description": "Description of Product 33"
+      },
+      {
+        "id": 34,
+        "image": "img34.jpg",
+        "description": "Description of Product 34"
+      },
+      {
+        "id": 35,
+        "image": "img35.jpg",
+        "description": "Description of Product 35"
+      },
+      {
+        "id": 36,
+        "image": "img36.jpg",
+        "description": "Description of Product 36"
+      },
+      {
+        "id": 37,
+        "image": "img37.jpg",
+        "description": "Description of Product 37"
+      },
+      {
+        "id": 38,
+        "image": "img38.jpg",
+        "description": "Description of Product 38"
+      },
+      {
+        "id": 39,
+        "image": "img39.jpg",
+        "description": "Description of Product 39"
+      },
+      {
+        "id": 40,
+        "image": "img40.jpg",
+        "description": "Description of Product 40"
+      }
+    ],
+    "onlineOrders":[
+      {
+          
+      }
+    ]
+  }
